@@ -1,9 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Naaz Manhas</h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=500&size=30&duration=2000&pause=2000&color=494BF7&background=9BADFF00&width=454&lines=Experienced+Full+Stack+Web+Developer;MERN+%7C+TypeScript+%7C+MongoDB+%7C+Express;React+%7C+Redux+%7C+Node.js+%7C+Git;Clean+Code+%7C+Fast+Delivery+%7C+Scalable+Apps" alt="Typing SVG" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
