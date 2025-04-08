@@ -1,7 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Naaz Manhas</h1>
 
----
-
 ### 🚀 About Me
 
 💻 Passionate about building dynamic, performant, and user-friendly web applications.<br>
