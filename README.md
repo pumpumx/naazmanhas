@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Naaz Manhas</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&center=true&vCenter=true&width=500&lines=Experienced+Full+Stack+Web+Developer;MERN+%7C+TypeScript+%7C+MongoDB+%7C+Express;React+%7C+Redux+%7C+Node.js+%7C+Git;Clean+Code+%7C+Fast+Delivery+%7C+Scalable+Apps" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&center=true&vCenter=true&width=500&lines=%7Experienced+Full+Stack+Web+Developer%7;%7MERN+%7C+TypeScript+%7C+MongoDB+%7C+Express%7;%7React+%7C+Redux+%7C+Node.js+%7C+Git;Clean+Code+%7C+Fast+Delivery+%7C+Scalable+Apps%7" alt="Typing SVG" />
 </p>
 
 ---
