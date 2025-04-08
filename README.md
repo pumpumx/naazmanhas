@@ -4,12 +4,12 @@
 
 ### 🚀 About Me
 
-💻 Passionate about building dynamic, performant, and user-friendly web applications.
-🌐 Experienced in crafting robust RESTful APIs, real-time apps, and scalable systems.
-🔐 Curious mind with a growing passion for Security Engineering, FullStackWebDev, DevOps, and Cybersecurity — I love writing clean code and securing it.
-🛠️ Tech-savvy with hands-on experience in both frontend and backend development.
-📦 Love integrating modern tools and dev practices to streamline workflows and deliver quickly.
-📚 Always learning, always improving — especially in cloud, automation, and secure infrastructure design.
+💻 Passionate about building dynamic, performant, and user-friendly web applications.<br>
+🌐 Experienced in crafting robust RESTful APIs, real-time apps, and scalable systems.<br>
+🔐 Curious mind with a growing passion for Security Engineering, FullStackWebDev, DevOps, and Cybersecurity — I love writing clean code and securing it.<br>
+🛠️ Tech-savvy with hands-on experience in both frontend and backend development.<br>
+📦 Love integrating modern tools and dev practices to streamline workflows and deliver quickly.<br>
+📚 Always learning, always improving — especially in cloud, automation, and secure infrastructure design.<br>
 
 ---
 
